@@ -1,0 +1,49 @@
+body {
+    background-image: url("../picture/bg2.png");
+}
+
+.logo {
+    margin-top: 20px;
+    text-align: center;  
+}
+
+.A1 {
+    text-align: center;
+    margin-top: 50px;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+
+.A2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.button {
+    background-color: white; /* Green */
+    border: none;
+    color: #663398;
+    padding: 20px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    font-weight: bold;
+    border-radius: 50px;
+    border: 2px solid #4CAF50
+}
+
+
+img {
+    text-align: center;
+    width: 30%;
+}
+
+.span {
+    margin-top: 300px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows:  auto ;
+    text-align: center;
+}

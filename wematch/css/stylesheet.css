@@ -1,0 +1,59 @@
+body {
+    background-image: url("../picture/bg.png");
+    /* width: 100%; */
+}
+
+.A1 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.A2 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.button {
+    background-color: white; /* Green */
+    border: none;
+    color: #663398;
+    padding: 20px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    border-radius: 50px;
+    font-weight: bold;
+    -webkit-box-shadow: 0 10px 40px -2px black;
+	   -moz-box-shadow: 0 10px 40px -2px black;
+	        box-shadow: 0 10px 40px -2px black;
+}
+
+
+
+.logo {
+    margin-top: 100px;
+    text-align: center;  
+}
+
+
+.logo2 {
+    margin-top: 70px;
+    text-align: center;  
+}
+
+
+
+img {
+    text-align: center;
+    width: 30%;
+}
+
+.span {
+    margin-top: 250px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows:  auto ;
+    text-align: center;
+
+}
